@@ -102,7 +102,7 @@ namespace лб1
         }
         public bool rent(traffic tr3)
         {
-
+            //sadas
             return cost_1t > tr3.cost_1t;
                
         }
